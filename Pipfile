@@ -8,6 +8,7 @@ sympy = "*"
 ipykernel = "*"
 numpy = "*"
 black = "*"
+scipy = "*"
 
 [dev-packages]
 
